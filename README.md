@@ -1,2 +1,4 @@
-# Java-Program
-My Java Pratice Program 
+# Java Programs
+
+This repository contains my Java practice codes and OOP programs.
+
